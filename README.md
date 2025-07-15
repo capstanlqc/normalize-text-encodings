@@ -17,7 +17,7 @@ The JSON file `file.json` has the following content:
 The character `ü` is encoded in three different ways: 
 - as Unicode text: `ü`
 - as a Unicode escape: `\u00FC`
-- as an HTML named entity: `&uuml`
+- as an HTML named entity: `&uuml;`
 
 ## Normalization
 
