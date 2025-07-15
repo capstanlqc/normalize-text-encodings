@@ -1,6 +1,8 @@
 # Normalize Text Encodings
 
-This is a simple proof of concept to show how different encodings can be normalized using Python. Other languages offer similar approaches.
+This is a simple proof of concept to show how different encodings can be normalized using Python. 
+
+> Other languages offer similar approaches.
 
 ## Mixed encoding input
 
